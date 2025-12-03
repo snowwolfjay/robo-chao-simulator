@@ -6,7 +6,7 @@ serials chaos simulation tests
 
 > Not only chaos, but a way to simulate the nature sync and chaos behavior.
 
-> Hope it will reveal the pattern how the tornado or earthquake born then control or simulate it. 
+> Hope it will reveal the pattern of group-behavior prediction and system's core roles
 
 Original design for Robotic Ecosystem, But my guider reject my blueprint, which inspired by a space builder game;
 
